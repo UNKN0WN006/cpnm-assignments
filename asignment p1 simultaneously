@@ -21,7 +21,7 @@ int main() {
         if (sum == num) {
             printf("It is also a Perfect number.\n");   }
     } else if (sum == num) {
-        printf("%d is only a Perfect number.\n", num);  // Only perfect, not Armstrong
+        printf("%d is only a Perfect number.\n", num); 
     } else {
         printf("%d is neither an Armstrong nor a Perfect number.\n", num);   }
     return 0; }
